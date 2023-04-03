@@ -14,7 +14,7 @@ To install the extension, follow these steps:
 2.  Open Google Chrome and go to the "Extensions" page (chrome://extensions/).
 3.  Enable "Developer mode" by toggling the switch in the top-right corner.
 4.  Click on the "Load unpacked" button in the top-left corner.
-5.  Select the folder where you cloned or downloaded the repository.
+5.  Go to the folder where you cloned or downloaded the repository and open the repository folder.
 
 Usage
 -----
